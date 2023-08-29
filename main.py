@@ -112,4 +112,4 @@ async def changePesos(ctx,usd,amount:str):
         await ctx.respond(f":money_mouth: {ctx.author.mention} :money_mouth:\n> ${amount} al cambio USD {usd.capitalize()}: ${dolarSale}\n> USD: {totalUsd}",ephemeral=True)
 
 # Conecta el bot usando el token
-bot.run('MTE0MTI0OTAwMTU0MzQzNDI0MA.GYlNAt.C-2AgmN_DRuQ3MKuadDZnlPKcyNhuMU-S5AcBw')
+bot.run('MTE0MTI0OTAwMTU0MzQzNDI0MA.GUAfMK.DCCnP-e6dNSctr4pSJQTH7mPcw9bC5d7f_kxwM')
